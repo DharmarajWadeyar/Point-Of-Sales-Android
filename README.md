@@ -7,8 +7,7 @@ The Point Of Sales Android Application is a user-friendly android app that helps
 
 ### Software Requirements
 - Operating System: Android 5 Lollipop or higher
-- Android Studio Software
-- Firebase Database
+- Android Studio Software (for emulator setup)
 - Java Programming Language
 
 ### Hardware Requirements
@@ -16,11 +15,14 @@ The Point Of Sales Android Application is a user-friendly android app that helps
 - Storage: Minimum 5 MB
 
 ### Installation Steps
-1. Download and install Android Studio from the official website.
-2. Clone the repository to your local machine using `git clone <repository-url>`.
-3. Open the project in Android Studio.
-4. Connect your Android device or use an emulator.
-5. Build and run the project from Android Studio.
+1. Download and install Android Studio from the official website (for emulator setup).
+2. Download the project files from the provided Google Drive links:
+   - Download Project Documentation
+   - Download Project App
+3. Extract the downloaded files to your local machine.
+4. Open Android Studio and set up an Android emulator.
+5. Install the app on the emulator or your Android device.
+6. Open the app to check and use its features.
 
 ## How to Use the Project
 1. **Login and Signup**: When the user opens the app, they will see an interface containing Login and Signup options. If the user is already registered, they need to log in. In Signup, the user details such as Name, Username, Password, and Confirm Password will be asked. After successfully signing up, the user needs to log in by entering their username and password.
