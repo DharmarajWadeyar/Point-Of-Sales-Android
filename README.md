@@ -17,8 +17,8 @@ The Point Of Sales Android Application is a user-friendly android app that helps
 ### Installation Steps
 1. Download and install Android Studio from the official website (for emulator setup).
 2. Download the project files from the provided Google Drive links:
-   - Download Project Documentation
-   - Download Project App
+   - Download Project Documentation : https://drive.google.com/drive/folders/10TFo77H5z88so8d_WAeZsj-a1QjUjMSK?usp=sharing
+   - Download Project App : https://drive.google.com/drive/folders/1kXdcwtx5yOPs-9OZuVUovDhsbWOdApcX?usp=sharing
 3. Extract the downloaded files to your local machine.
 4. Open Android Studio and set up an Android emulator.
 5. Install the app on the emulator or your Android device.
